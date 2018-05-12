@@ -1,4 +1,8 @@
 _repo: The-Tent-on-the-Beach-and-other-poems-Part-4-from-Volume-IV-of-The-Works-of-John-Greenleaf-Whi__9584
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Whittier, John Greenleaf
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/455
     wikipedia: http://en.wikipedia.org/wiki/John_Greenleaf_Whittier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9584#The-Tent-on-the-Beach-and-other-poems-Part-4-from-Volume-IV-of-The-Works-of-John-Greenleaf-Whi_
 gutenberg_issued: '2005-12-01'
 gutenberg_type: Text
 identifiers:
